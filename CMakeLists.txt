@@ -1,4 +1,4 @@
-project(data-structure CXX)
+project(generic-template-library CXX)
 
 cmake_minimum_required(VERSION 3.14)
 
